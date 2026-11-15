@@ -54,3 +54,7 @@ Linear Regression
 
 ## Author
 Student Marks Prediction Project
+## Learning Outcome
+
+Learned how to build a basic Machine Learning model
+and manage project files using Git and GitHub.
